@@ -18,3 +18,13 @@ linear-regression
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-green)
+
+
+## Visualizations Tab
+
+### Actual vs Predicted
+![Actual vs Predicted](Actual_vs_Predicted.png)
+
+### Model_Comparison
+![Model_Comparison.png](Model_Comparison.png)
+
